@@ -1,0 +1,3 @@
+[submodule "flag/flag/django-flag"]
+	path = flag/flag/django-flag
+	url = https://github.com/sgpritam/django-flag.git
